@@ -121,7 +121,6 @@ export default function Home() {
 
   return (
     <main style={{ textAlign: 'center', padding: '20px', fontFamily: 'Arial, sans-serif', backgroundImage: 'url("https://i.wpimg.pl/1200x788/filerepo.grupawp.pl/api/v1/display/embed/5a754f28-670a-4666-a5f4-93dc4bca1d1f")', backgroundSize: 'cover', minHeight: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', backdropFilter: 'blur(10px)' }}>
-      <img src="https://1000logos.net/wp-content/uploads/2017/08/OVO-Logo.png" alt="Your Logo" style={{ width: '150px', height: '100px', marginBottom: '20px',  }} />
       <p style={{ fontSize: '40px', fontWeight: 'bold', marginBottom: '20px', color: '#000000' }}>
         Drake Mint/Staking (Anita Max Wynn)
       </p>
