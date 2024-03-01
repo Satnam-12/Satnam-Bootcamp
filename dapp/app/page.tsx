@@ -208,8 +208,8 @@ export default function Home() {
 
       <div style={{ border: "2px solid #000000", padding: "10px", marginBottom: "20px" }}>
       <label style={{ fontSize: '18px', color: '#000000' }}>
-  Patience pays off! Just one more minute to go before you seize the moment and withdraw.
-</label>
+      Patience pays off! Just one more minute to go before you seize the moment and withdraw.
+      </label>
 
         <br />
         <button
