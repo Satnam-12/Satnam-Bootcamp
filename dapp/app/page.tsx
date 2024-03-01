@@ -165,7 +165,7 @@ export default function Home() {
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", border: "2px solid #000000", padding: "10px", marginBottom: "20px" }}>
         <form>
           <label style={{ fontSize: "18px", color: "#000000" }}>
-            Ready to mint some tokens? Enter the amount you want to create and let the magic happen! 💎✨
+            Ready to mint some tokens? Enter the amount you want to create and let the magic happen! 
           </label>
           <br />
         </form>
@@ -187,7 +187,7 @@ export default function Home() {
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", border: "2px solid #000000", padding: "10px", marginBottom: "20px" }}>
         <form>
           <label style={{ fontSize: "18px", color: "#000000" }}>
-            Input the amount you'd like to stake right here and watch your investment grow! 💰🌱
+            Input the amount you'd like to stake right here and watch your investment grow! 
           </label>
           <br />
         </form>
@@ -208,7 +208,7 @@ export default function Home() {
 
       <div style={{ border: "2px solid #000000", padding: "10px", marginBottom: "20px" }}>
       <label style={{ fontSize: '18px', color: '#000000' }}>
-    Patience pays off! Just one more minute to go before you seize the moment and withdraw. 🚀&#128184;&#128184;
+    Patience pays off! Just one more minute to go before you seize the moment and withdraw.;
       </label>
         <br />
         <button
